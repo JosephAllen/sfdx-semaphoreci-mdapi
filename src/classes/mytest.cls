@@ -1,6 +1,12 @@
+/**
+ * 
+ */
 @isTest
-private class mytest {
+private class MyTest {
 
+    /**
+     * myUnitTest description
+     */
     @isTest
     static void myUnitTest() {
         myclass demo = new myclass();
